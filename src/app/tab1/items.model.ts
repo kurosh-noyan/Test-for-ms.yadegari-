@@ -1,5 +1,3 @@
-import { Interface } from "readline";
-
 export class Item {
     Name:string;
     amount:number;
